@@ -6,7 +6,7 @@
   "author": "Daniel Amores Álvarez <damoresac@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "axios": "0.19.0",
+    "axios": "1.13.5",
     "dotenv": "8.0.0",
     "websocket": "1.0.29"
   }
